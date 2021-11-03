@@ -134,7 +134,7 @@ Java_com_devyk_ndk_1sample_MainActivity_getPerson(JNIEnv *env, jobject instance)
     const char *method = "<init>"; // Java构造方法的标识
 
     //2. 找到需要处理的 Java 对象 class
-    jclass j_person_class = env->FindClass(person_java);
+    jclass j_person_class = env->FindClass("com/devyk/ndk_sample/Person");
 
     //3. 拿到空参构造方法
     jmethodID person_constructor = env->GetMethodID(j_person_class, method, "()V");

@@ -1,7 +1,8 @@
 //include
-include ':ykav_sample', ':audio_video',
-        ':ykav_common'
-//        ':app',
-//        ':mk_application',
-//        ':cmake_application',
-//        ':ffmpeg'
+include ':ykav_sample',
+        ':audio_video',
+        ':ykav_common',
+        ':app',
+        ':mk_application',
+        ':cmake_application',
+        ':ffmpeg'

@@ -3,6 +3,9 @@
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8a83f8da6ab1feeec7a14268136c558e/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8a83f8da6ab1feeec7a14268136c558e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d3213d03956f858b93a9fe21f5b12e57/transformed/jetified-YKCrash-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d3213d03956f858b93a9fe21f5b12e57/transformed/jetified-YKCrash-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d3213d03956f858b93a9fe21f5b12e57/transformed/jetified-YKCrash-1.0.2/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
